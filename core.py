@@ -12,7 +12,7 @@ API_HASH = "344583e45741c457fe1862106095a5eb"
 TARGET_GROUP = -1004290700072
 group_entity = None
 
-MASTER_SESSION = "1BJWap1wBu1g94eIpgp67vezMPa8_27YNHWUg9ByBgLlNukX0Y-xTG3MXE3DK7-oX1KqsJLeY2n9QvsSVTJCBWHxYduBvumJFUx6DZPRU9WJPXsRDAnRAZe9jPdhkB74NC6Wigp-LpHuBzE2mntLE2EdcFcYvNQt9F3vxsZxLP_J0JFXWqlX_vnBUoGL6VR5Ee3ZyHWLb3-qYPo5ByAWtnoYeISTPAHlCaDpeTHRNQje2iLk2e0nLGmgd_aUXN5qt75oFP6u9A8NpM4peghCpwcwXFtbdHR59WTCDQpedWJ7ms8MIf1-btlKqFtEq6FvCeDNAJRGy4cbfnD6pwDSzNIPkGuIiWKM="
+MASTER_SESSION = "1AZWarzwBuzqZoUfmXGW56eumhA2hG6yn_LNVH4Trw3iBRdAhYIVQqwF3e6wVJNLjzZfshSVnXSWrs0-8dZw2tYciZwZKCfxN3ZIObGaVzqm8hfOwfY-RFFKfbu1bWPtX0ZdC05a98jjC6-QoIT1142Idk5uT6IBLyT6wPT5BvNMi_PtBHSIPKEzknagaJTngntZJaynwUxoPuZiLr_ZFQrMKoIBvaL-UQCdGTwAMgkPCXn6hsg0qvJeo19xuXuuQZnbAjRUHM1cj0SIamBRt5rEwjjVE1VZhIUHWy6q9H5OQ79FOo0tO5fi46Lyb3MiBIBrVFnjOlejEOjU91RdC6SvDUk4txNE="
 client = TelegramClient(StringSession(MASTER_SESSION), API_ID, API_HASH)
 
 collect_points_active = False
@@ -21,7 +21,7 @@ stray_cat_active = True
 factory_active = False
 
 DB_TAG = "#DB_AMIR"
-DB_CHAT = "hankhhh"
+DB_CHAT = "chikenbb"
 anti_delete_active = False
 anti_delete_targets = {}
 message_cache = {}
