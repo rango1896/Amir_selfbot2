@@ -1,0 +1,7 @@
+telethon
+deep-translator
+flask
+python-socks
+aiosqlite
+yt-dlp
+static-ffmpeg
