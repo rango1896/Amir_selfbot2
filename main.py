@@ -130,7 +130,7 @@ def keep_alive():
     import time
     while True:
         try:
-            urllib.request.urlopen("https://friendpiobot.onrender.com/")
+            urllib.request.urlopen("https://amir-selfbot2.onrender.com")
         except:
             pass
         time.sleep(280)
