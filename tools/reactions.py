@@ -12,7 +12,7 @@ import threading
 # ================= تنظیمات اکانت اصلی (خودت) =================
 API_ID = 17349
 API_HASH = "344583e45741c457fe1862106095a5eb"
-MASTER_SESSION = "1BJWap1wBu8O4UESk3VHZPpuIXdc8PMzfYUKhxpy5bjCRohf1vOpCGmrKwuTFdIL3VRC_dQ_HDTFZFEQGp0ktrnmJ0GSShQklPMcuie8jwtJny9RcuMF8CHsxbRNDprqmZBcv_oO84iPRje1eCH4NneHKkRJFsij2IFljGaM_FpM11GjyvQ_r4IngKjn5stx89McZP-ptmxrZgpLh81T0LHJ-DvFt6Ez9X8-2RYB8FpsPZ7pDE36GxdWroBFugoYj5uGx1TcBCtqs8L5y3_J0QQwgG3ODQ8xhjnmCyniu3govwu2U4Y6QciqZXsHhQVP9B0XNzwLtIXCj3iBD84OEu3B_UfqtXq0="
+MASTER_SESSION = "1AZWarzwBuzqZoUfmXGW56eumhA2hG6yn_LNVH4Trw3iBRdAhYIVQqwF3e6wVJNLjzZfshSVnXSWrs0-8dZw2tYciZwZKCfxN3ZIObGaVzqm8hfOwfY-RFFKfbu1bWPtX0ZdC05a98jjC6-QoIT1142Idk5uT6IBLyT6wPT5BvNMi_PtBHSIPKEzknagaJTngntZJaynwUxoPuZiLr_ZFQrMKoIBvaL-UQCdGTwAMgkPCXn6hsg0qvJeo19xuXuuQZnbAjRUHM1cj0SIamBRt5rEwjjVE1VZhIUHWy6q9H5OQ79FOo0tO5fi46Lyb3MiBIBrVFnjOlejEOjU91RdC6SvDUk4txNE="
 # ==========================================================
 
 app = Flask(__name__)
